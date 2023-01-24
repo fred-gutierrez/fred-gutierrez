@@ -32,6 +32,6 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 
 You can visit my personal portfolio at: [Fred David Solis Gutierrez](https://freddavidsolisgutierrez.netlify.app/)
 
-# 💬 Get in touch
+# 📬 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/freddavidsolisgutierrez/)
 - [Email](fredsg222@gmail.com)
