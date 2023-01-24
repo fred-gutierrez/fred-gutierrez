@@ -20,6 +20,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Gatsby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" />
 <br />
+<br />
 
 ### 🔭 I’m currently working on:
 - React driven projects (Gatsby, NextJS, etc)
