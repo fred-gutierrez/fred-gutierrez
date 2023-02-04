@@ -1,4 +1,4 @@
-# 🌌 Fred David Solis Gutierrez 
+# 🍊 Fred David Solis Gutierrez
 
 **`Software Engineer (Web Developer/Front-End Developer/Designer)`**
 
@@ -22,10 +22,10 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <br />
 <br />
 
-### 🔭 I’m currently working on:
+### 🔶 I’m currently working on:
 - React driven projects (Gatsby, NextJS, etc)
 
-### 🌱 I’m currently learning:
+### 📙 I’m currently learning:
 - AngularJS
 - VueJS
 - TypeScript
