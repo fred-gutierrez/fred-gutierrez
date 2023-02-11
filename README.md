@@ -23,12 +23,13 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <br />
 
 ### ⚒ I’m currently working on:
-- React driven projects (Gatsby, NextJS, etc)
+- React driven projects (Gatsby, NextJS, etc).
+- API connected Websites.
 
 ### 📚 I’m currently learning:
+- TypeScript
 - AngularJS
 - VueJS
-- TypeScript
 
 You can visit my personal portfolio at: [Fred David Solis Gutierrez](https://freddavidsolisgutierrez.netlify.app/)
 
