@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: windows
+    runs-on: ubuntu-latest
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
