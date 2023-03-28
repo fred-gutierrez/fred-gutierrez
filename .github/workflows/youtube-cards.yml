@@ -13,4 +13,3 @@ jobs:
         with:
           channel_id: UCJ0-v4u19VS7gU3jW3O05Vw
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
