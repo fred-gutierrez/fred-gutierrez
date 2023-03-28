@@ -4,7 +4,7 @@
 
 Hello there! I'm a self-taught Software-Engineer with the purpose of learning as much as I can to have the ability to provide and help the entire world with technology advancing projects/products. I'm currently working on personal projects and improving on everything Front-End related.
 
-### 🧰 Languages and Tools
+<h2>🧰 Languages and Tools</h2>
 
 <img align="left" alt="HTML" width="26px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="26px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -22,9 +22,14 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <br />
 <br />
 
+#
+
 <h2>📺 Latest YouTube Videos</h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
+[![The Only CSS Grid Video You''ll Ever Need](https://ytcards.demolab.com/?id=adsEUM6xGvI&title=The+Only+CSS+Grid+Video+You%27ll+Ever+Need&lang=en&timestamp=1679785202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "The Only CSS Grid Video You''ll Ever Need")](https://www.youtube.com/watch?v=adsEUM6xGvI) [![Top Tricks for Boosting Website Performance: Front-End Developer Edition](https://ytcards.demolab.com/?id=x99LVbOTgt4&title=Top+Tricks+for+Boosting+Website+Performance%3A+Front-End+Developer+Edition&lang=en&timestamp=1679374819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Top Tricks for Boosting Website Performance: Front-End Developer Edition")](https://www.youtube.com/watch?v=x99LVbOTgt4) [![From Chaos to Order: Structuring Your Programming Projects](https://ytcards.demolab.com/?id=djPrljZsVxc&title=From+Chaos+to+Order%3A+Structuring+Your+Programming+Projects&lang=en&timestamp=1678590017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "From Chaos to Order: Structuring Your Programming Projects")](https://www.youtube.com/watch?v=djPrljZsVxc) [![Tailwind, Bootstrap, or Vanilla CSS? Which is the Best for You?](https://ytcards.demolab.com/?id=Un2IZMjCf2k&title=Tailwind%2C+Bootstrap%2C+or+Vanilla+CSS%3F+Which+is+the+Best+for+You%3F&lang=en&timestamp=1678250247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Tailwind, Bootstrap, or Vanilla CSS? Which is the Best for You?")](https://www.youtube.com/watch?v=Un2IZMjCf2k) [![Maximize Your Coding Productivity with These Tips](https://ytcards.demolab.com/?id=Ux1KzAQDIdg&title=Maximize+Your+Coding+Productivity+with+These+Tips&lang=en&timestamp=1677718811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Maximize Your Coding Productivity with These Tips")](https://www.youtube.com/watch?v=Ux1KzAQDIdg) [![Top 20 VS Code Shortcuts for Front-End Developers in 2023](https://ytcards.demolab.com/?id=ZcLWi3WPJpA&title=Top+20+VS+Code+Shortcuts+for+Front-End+Developers+in+2023&lang=en&timestamp=1677283215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Top 20 VS Code Shortcuts for Front-End Developers in 2023")](https://www.youtube.com/watch?v=ZcLWi3WPJpA)
+
 <!-- END YOUTUBE-CARDS -->
 
 <!-- #
