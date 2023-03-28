@@ -12,3 +12,4 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCJ0-v4u19VS7gU3jW3O05Vw
+          show_duration: true
