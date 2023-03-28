@@ -22,8 +22,6 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <br />
 <br />
 
-#
-
 <h2>📺 Latest YouTube Videos</h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
