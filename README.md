@@ -30,6 +30,10 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 
 <!-- END YOUTUBE-CARDS -->
 
+<h2>⚡ Stats<h2>
+
+![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=tokyonight)
+
 <!-- #
 
 ### Connect with me:
