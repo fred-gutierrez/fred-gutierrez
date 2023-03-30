@@ -43,7 +43,6 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark)
 
 </div>
-<!-- #
 
 <!-- ### Connect with me:
 
@@ -60,7 +59,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) --> -->
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 
 <!--   You can visit my personal portfolio at: [Fred David Solis Gutierrez](https://freddavidsolisgutierrez.netlify.app/)
 
