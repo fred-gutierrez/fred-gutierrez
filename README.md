@@ -25,21 +25,27 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <h2>📺 Latest YouTube Videos</h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![The Only CSS Grid Video You'll Ever Need](https://ytcards.demolab.com/?id=adsEUM6xGvI&title=The+Only+CSS+Grid+Video+You%27ll+Ever+Need&lang=en&timestamp=1679785202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1387 "The Only CSS Grid Video You'll Ever Need")](https://www.youtube.com/watch?v=adsEUM6xGvI)
 [![Top Tricks for Boosting Website Performance: Front-End Developer Edition](https://ytcards.demolab.com/?id=x99LVbOTgt4&title=Top+Tricks+for+Boosting+Website+Performance%3A+Front-End+Developer+Edition&lang=en&timestamp=1679374819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1240 "Top Tricks for Boosting Website Performance: Front-End Developer Edition")](https://www.youtube.com/watch?v=x99LVbOTgt4)
 [![From Chaos to Order: Structuring Your Programming Projects](https://ytcards.demolab.com/?id=djPrljZsVxc&title=From+Chaos+to+Order%3A+Structuring+Your+Programming+Projects&lang=en&timestamp=1678590017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=988 "From Chaos to Order: Structuring Your Programming Projects")](https://www.youtube.com/watch?v=djPrljZsVxc)
 [![Tailwind, Bootstrap, or Vanilla CSS? Which is the Best for You?](https://ytcards.demolab.com/?id=Un2IZMjCf2k&title=Tailwind%2C+Bootstrap%2C+or+Vanilla+CSS%3F+Which+is+the+Best+for+You%3F&lang=en&timestamp=1678250247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1521 "Tailwind, Bootstrap, or Vanilla CSS? Which is the Best for You?")](https://www.youtube.com/watch?v=Un2IZMjCf2k)
 [![Maximize Your Coding Productivity with These Tips](https://ytcards.demolab.com/?id=Ux1KzAQDIdg&title=Maximize+Your+Coding+Productivity+with+These+Tips&lang=en&timestamp=1677718811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=975 "Maximize Your Coding Productivity with These Tips")](https://www.youtube.com/watch?v=Ux1KzAQDIdg)
 [![Top 20 VS Code Shortcuts for Front-End Developers in 2023](https://ytcards.demolab.com/?id=ZcLWi3WPJpA&title=Top+20+VS+Code+Shortcuts+for+Front-End+Developers+in+2023&lang=en&timestamp=1677283215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1201 "Top 20 VS Code Shortcuts for Front-End Developers in 2023")](https://www.youtube.com/watch?v=ZcLWi3WPJpA)
+
 <!-- END YOUTUBE-CARDS -->
 
 <h2>⚡ Stats<h2>
+<div style="display: inline-flex; gap: 10px;">
 
-![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=tokyonight)
+![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark)
+
+</div>
 <!-- #
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
@@ -54,7 +60,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) --> -->
 
 <!--   You can visit my personal portfolio at: [Fred David Solis Gutierrez](https://freddavidsolisgutierrez.netlify.app/)
 
