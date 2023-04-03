@@ -35,13 +35,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 
 <!-- END YOUTUBE-CARDS -->
 
-<h2>⚡ Stats<h2>
-
-![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
-
-<h2>Connect with me:</h2>
+<h2>🌴 Connect with me:</h2>
 
 [![website](./imgs/globe-light.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-light-mode-only)
 [![website](./imgs/globe-dark.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-dark-mode-only)
@@ -54,3 +48,9 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 &nbsp;&nbsp;
 [![website](./imgs/instagram-light.svg)](https://www.instagram.com/fredwilliamszy/#gh-light-mode-only)
 [![website](./imgs/instagram-dark.svg)](https://www.instagram.com/fredwilliamszy/#gh-dark-mode-only)
+
+<h2>⚡ Stats<h2>
+
+![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
