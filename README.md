@@ -36,34 +36,21 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <!-- END YOUTUBE-CARDS -->
 
 <h2>⚡ Stats<h2>
-<div style="display: inline-flex; gap: 10px;">
 
 ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
 
-</div>
-<!-- #
+### Connect with me:
 
-<!-- ### Connect with me:
-
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./imgs/globe-light.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-light-mode-only)
+[![website](./imgs/globe-dark.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./imgs/youtube-light.svg)](https://www.youtube.com/@codewithfred#gh-light-mode-only)
+[![website](./imgs/youtube-dark.svg)](https://www.youtube.com/@codewithfred#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/freddavidsolisgutierrez/#gh-light-mode-only)
+[![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/freddavidsolisgutierrez/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
-
-<!--   You can visit my personal portfolio at: [Fred David Solis Gutierrez](https://freddavidsolisgutierrez.netlify.app/)
-
-  # 📬 Get in touch
-  - [LinkedIn](https://www.linkedin.com/in/freddavidsolisgutierrez/)
-  - [Email](fredsg222@gmail.com) -->
+[![website](./imgs/instagram-light.svg)](https://www.instagram.com/fredwilliamszy/#gh-light-mode-only)
+[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/fredwilliamszy/#gh-dark-mode-only)
