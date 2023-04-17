@@ -32,7 +32,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 [![Top Tricks for Boosting Website Performance: Front-End Developer Edition](https://ytcards.demolab.com/?id=x99LVbOTgt4&title=Top+Tricks+for+Boosting+Website+Performance%3A+Front-End+Developer+Edition&lang=en&timestamp=1679374819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1240 "Top Tricks for Boosting Website Performance: Front-End Developer Edition")](https://www.youtube.com/watch?v=x99LVbOTgt4)
 [![From Chaos to Order: Structuring Your Programming Projects](https://ytcards.demolab.com/?id=djPrljZsVxc&title=From+Chaos+to+Order%3A+Structuring+Your+Programming+Projects&lang=en&timestamp=1678590017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=988 "From Chaos to Order: Structuring Your Programming Projects")](https://www.youtube.com/watch?v=djPrljZsVxc)
 <!-- END YOUTUBE-CARDS -->
-
+ 
 <h2>🌴 Connect with me:</h2>
 
 [![website](./imgs/globe-light.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-light-mode-only)
