@@ -32,7 +32,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 [![The Only CSS Grid Video You'll Ever Need](https://ytcards.demolab.com/?id=adsEUM6xGvI&title=The+Only+CSS+Grid+Video+You%27ll+Ever+Need&lang=en&timestamp=1679785202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1387 "The Only CSS Grid Video You'll Ever Need")](https://www.youtube.com/watch?v=adsEUM6xGvI)
 [![Top Tricks for Boosting Website Performance: Front-End Developer Edition](https://ytcards.demolab.com/?id=x99LVbOTgt4&title=Top+Tricks+for+Boosting+Website+Performance%3A+Front-End+Developer+Edition&lang=en&timestamp=1679374819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1240 "Top Tricks for Boosting Website Performance: Front-End Developer Edition")](https://www.youtube.com/watch?v=x99LVbOTgt4)
 <!-- END YOUTUBE-CARDS -->
- 
+
 <h2>🌴 Connect with me:</h2>
  
 [![website](./imgs/globe-light.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-light-mode-only)
