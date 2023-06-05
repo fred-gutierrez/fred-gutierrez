@@ -23,7 +23,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <br />
  
 <h2>📺 Latest YouTube Videos</h2>
- 
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Easy Tailwind CSS Setup](https://ytcards.demolab.com/?id=28VIB8cqmoY&title=Easy+Tailwind+CSS+Setup&lang=en&timestamp=1682836200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=990 "Easy Tailwind CSS Setup")](https://www.youtube.com/watch?v=28VIB8cqmoY)
 [![Will AI Replace Programmers? - My take](https://ytcards.demolab.com/?id=9vjZ2LoerRw&title=Will+AI+Replace+Programmers%3F+-+My+take&lang=en&timestamp=1681628403&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=737 "Will AI Replace Programmers? - My take")](https://www.youtube.com/watch?v=9vjZ2LoerRw)
