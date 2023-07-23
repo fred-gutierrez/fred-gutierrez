@@ -23,7 +23,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <br />
  
 <h2>📺 Latest YouTube Videos</h2>
-
+ 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The Biggest Mistake You Can Make as a Self Taught Software Developer](https://ytcards.demolab.com/?id=imRcOdZj29Y&title=The+Biggest+Mistake+You+Can+Make+as+a+Self+Taught+Software+Developer&lang=en&timestamp=1689681638&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=401 "The Biggest Mistake You Can Make as a Self Taught Software Developer")](https://www.youtube.com/watch?v=imRcOdZj29Y)
 [![Easy Tailwind CSS Setup](https://ytcards.demolab.com/?id=28VIB8cqmoY&title=Easy+Tailwind+CSS+Setup&lang=en&timestamp=1682836200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=990 "Easy Tailwind CSS Setup")](https://www.youtube.com/watch?v=28VIB8cqmoY)
