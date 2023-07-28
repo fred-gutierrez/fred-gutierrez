@@ -44,8 +44,8 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 [![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/freddavidsolisgutierrez/#gh-light-mode-only)
 [![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/freddavidsolisgutierrez/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./imgs/instagram-light.svg)](https://www.instagram.com/fredwilliamszy/#gh-light-mode-only)
-[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/fredwilliamszy/#gh-dark-mode-only)
+<!--- [![website](./imgs/instagram-light.svg)](https://www.instagram.com/fredwilliamszy/#gh-light-mode-only)
+[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/fredwilliamszy/#gh-dark-mode-only) --->
 
 <h2>⚡ Stats<h2>
 
