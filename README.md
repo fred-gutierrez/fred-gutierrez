@@ -18,7 +18,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <img align="left" alt="Bootstrap" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Tailwind" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="WordPress" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="Gatsby" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" />
+<img align="left" alt="Gatsby" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <br />
 <br />
  
