@@ -21,7 +21,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <img align="left" alt="Gatsby" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <br />
 <br />
- 
+
 <h2>📺 Latest YouTube Videos</h2>
  
 <!-- BEGIN YOUTUBE-CARDS -->
