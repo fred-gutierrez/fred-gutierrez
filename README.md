@@ -1,4 +1,4 @@
-# 🌌 Fred David Solis Gutierrez
+# 🌌 Fred
  
 **`Software Engineer (Web Developer/Front-End Developer/Designer)`**
 
