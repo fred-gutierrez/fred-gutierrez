@@ -4,7 +4,7 @@
 
 Hello there! I'm a self-taught Software-Engineer with the purpose of learning as much as possible to provide and help the entire world with technology-advancing projects/products. I'm currently working on personal projects and improving on everything Front-End related.
 
-<h2>🧰 Languages and Tools</h2>
+<h2>🧰 Languages and tools</h2>
 
 <img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -22,7 +22,7 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <br />
 <br />
 
-<h2>📺 Latest YouTube Videos</h2>
+<h2>📺 Latest youtube videos</h2>
  
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The Best VS Code Extension for New Programmers](https://ytcards.demolab.com/?id=YCkdWXO39gc&title=The+Best+VS+Code+Extension+for+New+Programmers&lang=en&timestamp=1690248619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=353 "The Best VS Code Extension for New Programmers")](https://www.youtube.com/watch?v=YCkdWXO39gc)
