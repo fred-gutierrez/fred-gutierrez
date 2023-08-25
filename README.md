@@ -2,7 +2,7 @@
  
 **`Software Engineer (Web Developer/Front-End Developer/Designer)`**
 
-Hello there! I'm a self-taught Software-Engineer with the purpose of learning as much as possible to provide and help the entire world with technology-advancing projects/products.
+Hello there! I'm a self-taught Software Engineer on a mission to create and deliver technology-advancing projects/products to benefit the entire world.
 
 <h2>🧰 Languages and tools</h2>
  
