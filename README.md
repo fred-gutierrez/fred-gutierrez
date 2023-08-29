@@ -2,7 +2,7 @@
  
 **`Software Engineer (Web Developer/Front-End Developer/Designer)`**
 
-Hey there! I'm a passionate Software Engineer on a mission to create and deliver technology-advancing projects and products that make a positive impact on our world.
+Hey there! I'm a passionate Software Developer on a mission to create and deliver technology-advancing projects and products that make a positive impact on our world.
 
 <h2>🧰 Languages and tools</h2>
  
