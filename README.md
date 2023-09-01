@@ -22,7 +22,7 @@ Hey there! I'm a passionate Software Developer on a mission to create and delive
 <br /> 
 
 <h2>📺 Latest youtube videos</h2>
- 
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The Best VS Code Extension for New Programmers](https://ytcards.demolab.com/?id=YCkdWXO39gc&title=The+Best+VS+Code+Extension+for+New+Programmers&lang=en&timestamp=1690248619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=353 "The Best VS Code Extension for New Programmers")](https://www.youtube.com/watch?v=YCkdWXO39gc)
 [![The Biggest Mistake You Can Make as a Self Taught Software Developer](https://ytcards.demolab.com/?id=imRcOdZj29Y&title=The+Biggest+Mistake+You+Can+Make+as+a+Self+Taught+Software+Developer&lang=en&timestamp=1689681638&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=401 "The Biggest Mistake You Can Make as a Self Taught Software Developer")](https://www.youtube.com/watch?v=imRcOdZj29Y)
