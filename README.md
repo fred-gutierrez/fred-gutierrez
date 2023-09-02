@@ -2,7 +2,9 @@
  
 **`Software Developer (Web Developer/Front-End Developer/Designer)`**
 
-Hey there! I'm a passionate Software Developer on a mission to create and deliver technology-advancing projects and products that make a positive impact on our world. My expertise revolves around JavaScript, with a strong focus on React and TypeScript.
+Hey there! I'm a passionate Software Developer on a mission to create and deliver technology-advancing projects and products that make a positive impact on our world. My expertise revolves around JavaScript, with a strong focus on React and TypeScript. 
+
+Recently, I've been driving myself to learn more about back-end technologies, aiming to deliver fully working projects encompassing both front-end and back-end components.
 
 <h2>🧰 Languages and tools</h2>
 
