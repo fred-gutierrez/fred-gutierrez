@@ -25,7 +25,7 @@ I'm a passionate Software Developer on a mission to create and deliver technolog
 
 Recently, I've been driving myself to learn more about back-end technologies, aiming to deliver fully working projects encompassing both front-end and back-end components.
 
-<h2>📺 Latest Youtube Videos</h2>
+<h2>📺 Latest YouTube Videos</h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![30 Days with Vim (neovim): What I Wish I'd Known Before Switching](https://ytcards.demolab.com/?id=ESO1RMyYXdk&title=30+Days+with+Vim+%28neovim%29%3A+What+I+Wish+I%27d+Known+Before+Switching&lang=en&timestamp=1696723210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=748 "30 Days with Vim (neovim): What I Wish I'd Known Before Switching")](https://www.youtube.com/watch?v=ESO1RMyYXdk)
