@@ -21,11 +21,16 @@
 
 **`Software Developer (Web Developer/Front-End Developer/Designer)`**
 
-I'm Fred, with a mission to create and deliver technology-advancing projects and products that make a positive impact on our world. My expertise revolves around <b>JavaScript</b>, with a strong focus on <b>React</b> and <b>TypeScript</b>. 
+My mission is to create and deliver technology-advancing projects and products that make a positive impact on our world. My expertise revolves around <b>JavaScript</b>, with a strong focus on <b>React</b> and <b>TypeScript</b>.
 
-Recently, I've been driving myself to learn more about back-end technologies, aiming to deliver fully working projects encompassing both front-end and back-end components!
+Aside from that quite serious description, I like to create projects ranging from fun to complex, attempting to push the boundaries of what's possible, and collaborate with others to achieve something great. I'm interested in any project ideas or questions, so feel free to reach out, and let's create great things!
 
-<h2>📺 Latest YouTube Videos</h2>
+<p align="left">
+  <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+</p>
+
+## 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Stop Using ChatGPT When Learning Software Development](https://ytcards.demolab.com/?id=jfFK-Zq03wo&title=Stop+Using+ChatGPT+When+Learning+Software+Development&lang=en&timestamp=1700769630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=161 "Stop Using ChatGPT When Learning Software Development")](https://www.youtube.com/watch?v=jfFK-Zq03wo)
@@ -35,9 +40,9 @@ Recently, I've been driving myself to learn more about back-end technologies, ai
 [![Effortless Web Animations: GSAP in 12 Minutes](https://ytcards.demolab.com/?id=H_fl-ccB48w&title=Effortless+Web+Animations%3A+GSAP+in+12+Minutes&lang=en&timestamp=1694214014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=740 "Effortless Web Animations: GSAP in 12 Minutes")](https://www.youtube.com/watch?v=H_fl-ccB48w)
 [![The Best VS Code Extension for New Programmers](https://ytcards.demolab.com/?id=YCkdWXO39gc&title=The+Best+VS+Code+Extension+for+New+Programmers&lang=en&timestamp=1690248619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=353 "The Best VS Code Extension for New Programmers")](https://www.youtube.com/watch?v=YCkdWXO39gc)
 <!-- END YOUTUBE-CARDS -->
+
+## ⚡ Stats
  
- <h2>⚡ Stats<h2>
- 
-<!--- ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true) --->
+<!-- ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
