@@ -21,7 +21,7 @@
 
 **`Software Developer (Web Developer/Front-End Developer/Designer)`**
 
-My mission is to create and deliver technology-advancing projects and products that make a positive impact on our world. My expertise revolves around <b>JavaScript</b>, with a strong focus on <b>React</b> and <b>TypeScript</b>.
+My mission is to create and deliver technology-advancing projects and products that make a positive impact on our world. My expertise revolves around <b>JavaScript</b>, with a strong focus on <b>React</b>, <b>Vue.js</b> and <b>TypeScript</b>.
 
 Aside from that quite serious description, I like to create projects ranging from fun to complex, attempting to push the boundaries of what's possible, and collaborate with others to achieve something great. I'm interested in any project ideas or questions, so feel free to reach out, and let's create great things!
 
