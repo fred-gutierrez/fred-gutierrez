@@ -18,7 +18,7 @@
 <img align="left" alt="Vim" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <br />
 <br />
-
+ 
 **`Software Developer (Web Developer/Front-End Developer/Designer)`**
 
 My mission is to create and deliver technology-advancing projects and products that make a positive impact on our world. My expertise revolves around <b>JavaScript</b>, with a strong focus on <b>React</b>, <b>Vue.js</b> and <b>TypeScript</b>.
