@@ -33,6 +33,22 @@ Aside from that quite serious description, I like to create projects ranging fro
 </a>
 </p>
 
+### Workspace/Daily tools:
+
+*   **Lazyvim** - Text editor.
+*   **tmux** - Used for managing multiple terminals in one workspace.
+*   **Valgrind** - Memory debugger.
+*   **Google Lighthouse** - Website optimization.
+*   **Todoist** - To-do app for saving information across my phone and computer.
+*   **Notion** - Used for storing information with depth.
+*   **Ubuntu** - Linux distro.
+*   **Zsh + Oh My Zsh** - Terminal.
+*   **QEMU + VMM** - Virtual Machine.
+*   **OBS + Sony Vegas** - Tools for video creation and editing.
+*   **Figma and Adobe Photoshop** - Design creation.
+*   **SnapNote** - Used for creating documentation in markdown and quickly saving information.
+*   **Google Calendar** - Time managment.
+
 ## 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
