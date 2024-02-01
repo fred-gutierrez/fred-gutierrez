@@ -33,11 +33,12 @@ Aside from that quite serious description, I like to create projects ranging fro
 </a>
 </p>
 
-### Workspace/Daily tools:
+### Workspace:
 
 *   **Lazyvim** - Text editor.
 *   **tmux** - Used for managing multiple terminals in one workspace.
 *   **Valgrind** - Memory debugger.
+*   **Git** - Version control system.
 *   **Google Lighthouse** - Website optimization.
 *   **Todoist** - To-do app for saving information across my phone and computer.
 *   **Notion** - Used for storing information with depth.
