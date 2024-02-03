@@ -36,7 +36,7 @@ Aside from that quite serious description, I like to create projects ranging fro
 ### Workspace:
 
 *   **Lazyvim** - Text editor.
-*   **Zsh + Oh My Zsh** - Terminal.
+*   **Zsh + Oh My Zsh** - Terminal (Hack [Nerd Font](https://www.nerdfonts.com/) as the font).
 *   **tmux** - Used for managing multiple terminals in one workspace.
 *   **Valgrind** - Memory debugger.
 *   **Ubuntu** - Linux distro.
