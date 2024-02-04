@@ -24,9 +24,9 @@
 
 **`Software Developer (Web Developer/Full-Stack Developer/Designer)`**
 
-My mission is to create and deliver technology-advancing projects and products that make a positive impact on our world. My expertise revolves around <b>JavaScript</b>, with a strong focus on <b>React</b>, <b>Vue.js</b> and <b>TypeScript</b>.
+As a Software Developer, I like to see myself as a problem-solver rather than merely someone familiar with frameworks and programming languages. Every day, I dedicate myself to the projects I undertake and the code I engage with, ensuring the best quality and attention to detail in my day-to-day tasks.
 
-Aside from that quite serious description, I like to create projects ranging from fun to complex, attempting to push the boundaries of what's possible, and collaborate with others to achieve something great. I'm interested in any project ideas or questions, so feel free to reach out, and let's create great things!
+Beyond that somewhat serious description, I find joy in creating and participating in projects spanning from fun to complex, with the aim of pushing the boundaries of what's possible. I have a passion for collaborating with others to achieve something great. You can see the frameworks/languages I'm proficient in listed above, so feel free to reach out, and let's create amazing things together!
 
 <p align="left">
   <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white">
