@@ -26,7 +26,7 @@
 
 As a Software Developer, I like to see myself as a problem-solver rather than merely someone familiar with frameworks and programming languages. Every day, I dedicate myself to the projects I undertake and the code I engage with, ensuring the best quality and attention to detail in my day-to-day tasks.
 
-Beyond that somewhat serious description, I find joy in creating and participating in projects spanning from fun to complex, with the aim of pushing the boundaries of what's possible. I have a passion for collaborating with others to achieve something great. You can see the frameworks/languages/tools I'm proficient in listed above, so feel free to reach out, and let's create amazing things together!
+Beyond that somewhat serious description, I find joy in creating and participating in projects spanning from fun to complex, with the aim of pushing the boundaries of what's possible. I have a passion for collaborating with others to achieve something great. You can see most of the frameworks/languages/tools I'm proficient in listed above, so feel free to reach out, and let's create amazing things together!
 
 <p align="left">
   <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white">
