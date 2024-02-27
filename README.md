@@ -31,8 +31,10 @@ As a Software Developer, I like to see myself as a problem-solver rather than me
 Beyond that somewhat serious description, I find joy in creating and participating in projects spanning from fun to complex, with the aim of pushing the boundaries of what's possible. I have a passion for collaborating with others to achieve something great. You can see most of the frameworks/languages/tools I'm proficient in listed below in **Stats**, so feel free to reach out, and let's create amazing things together!
 
 <p align="left">
-  <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+  <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/freddavidsolisgutierrez/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/fredlikesmath"><img alt="Static Badge" src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.youtube.com/@fredthemathematician"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-crimson?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ### Workspace:
