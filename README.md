@@ -49,7 +49,7 @@ Beyond that somewhat serious description, I find joy in creating and participati
 *   **SnapNote** - Used for creating documentation in markdown and quickly saving information.
 *   **Google Calendar** - Time managment.
 
-## 📺 Latest YouTube Videos
+## Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Supabase - A Guide for Front-End Developers (With a Project example)](https://ytcards.demolab.com/?id=KPFn-CmcrLA&title=Supabase+-+A+Guide+for+Front-End+Developers+%28With+a+Project+example%29&lang=en&timestamp=1708732815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2517 "Supabase - A Guide for Front-End Developers (With a Project example)")](https://www.youtube.com/watch?v=KPFn-CmcrLA)
@@ -60,7 +60,7 @@ Beyond that somewhat serious description, I find joy in creating and participati
 [![Ultimate Neovim Setup: Installing NvChad from Scratch](https://ytcards.demolab.com/?id=emxEEUUspEg&title=Ultimate+Neovim+Setup%3A+Installing+NvChad+from+Scratch&lang=en&timestamp=1699135215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1977 "Ultimate Neovim Setup: Installing NvChad from Scratch")](https://www.youtube.com/watch?v=emxEEUUspEg)
 <!-- END YOUTUBE-CARDS -->
 
-## ⚡ Stats
+## Stats
  
 <!-- ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true) -->
 
