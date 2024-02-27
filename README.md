@@ -68,4 +68,4 @@ Beyond that somewhat serious description, I find joy in creating and participati
  
 <!-- ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true)
