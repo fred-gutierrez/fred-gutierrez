@@ -1,13 +1,13 @@
 # FredTheMathematician (or just Fred)
 
-**`Software Developer (Code goes brrr)`**
-
 <p align="left">
   <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/freddavidsolisgutierrez/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/fredlikesmath"><img alt="Static Badge" src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.youtube.com/@fredthemathematician"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-crimson?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
+
+**`Software Developer (Code goes brrr)`**
 
 <hr >
 
