@@ -1,6 +1,21 @@
-# Fred
+# FredTheMathematician (or just Fred)
 
-**`Software Developer (Web Developer/Full-Stack Developer/Designer)`**
+**`Software Developer (Code goes brrr)`**
+
+<p align="left">
+  <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/freddavidsolisgutierrez/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/fredlikesmath"><img alt="Static Badge" src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.youtube.com/@fredthemathematician"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-crimson?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
+
+<hr >
+
+As a Software Developer, I like to see myself as a problem-solver rather than merely someone familiar with frameworks and programming languages. Every day, I dedicate myself to the projects I undertake and the code I engage with, ensuring the best quality and attention to detail in my day-to-day tasks.
+
+Beyond that somewhat serious description, I find joy in creating and participating in projects spanning from fun to complex, with the aim of pushing the boundaries of what's possible. I have a passion for collaborating with others to achieve something great. You can see most of the frameworks/languages/tools I'm proficient in listed below in **Stats**, so feel free to reach out, and let's create amazing things together!
+
+<hr >
 
 <img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -19,21 +34,8 @@
 <img align="left" alt="Vim" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <!-- <img align="left" alt="Ubuntu" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />  -->
 <img align="left" alt="postgresql" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
 <br />
 <br />
-<br />
-
-As a Software Developer, I like to see myself as a problem-solver rather than merely someone familiar with frameworks and programming languages. Every day, I dedicate myself to the projects I undertake and the code I engage with, ensuring the best quality and attention to detail in my day-to-day tasks.
-
-Beyond that somewhat serious description, I find joy in creating and participating in projects spanning from fun to complex, with the aim of pushing the boundaries of what's possible. I have a passion for collaborating with others to achieve something great. You can see most of the frameworks/languages/tools I'm proficient in listed below in **Stats**, so feel free to reach out, and let's create amazing things together!
-
-<p align="left">
-  <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/freddavidsolisgutierrez/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/fredlikesmath"><img alt="Static Badge" src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.youtube.com/@fredthemathematician"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-crimson?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
 
 ### Workspace:
 
