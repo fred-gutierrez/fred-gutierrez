@@ -7,8 +7,6 @@
   <a href="https://www.youtube.com/@fredthemathematician"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-crimson?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-**`Software Developer (Code goes brrr)`**
-
 <hr >
 
 As a Software Developer, I like to see myself as a problem-solver rather than merely someone familiar with frameworks and programming languages. Every day, I dedicate myself to the projects I undertake and the code I engage with, ensuring the best quality and attention to detail in my day-to-day tasks.
