@@ -1,5 +1,9 @@
 # Fred
 
+As a Software Developer, I like to see myself as a problem-solver rather than merely someone familiar with frameworks and programming languages. Every day, I dedicate myself to the projects I undertake and the code I engage with, ensuring the best quality and attention to detail in my day-to-day tasks.
+
+Beyond that somewhat serious description, I find joy in creating and participating in projects spanning from fun to complex, with the aim of pushing the boundaries of what's possible. I have a passion for collaborating with others to achieve something great. You can see most of the frameworks/languages/tools I'm proficient in listed below in **Stats**, so feel free to reach out, and let's create amazing things together!
+
 <p align="left">
   <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/freddavidsolisgutierrez/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -7,13 +11,21 @@
   <a href="https://www.youtube.com/@fredthemathematician"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-crimson?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<hr >
+### Workspace:
 
-As a Software Developer, I like to see myself as a problem-solver rather than merely someone familiar with frameworks and programming languages. Every day, I dedicate myself to the projects I undertake and the code I engage with, ensuring the best quality and attention to detail in my day-to-day tasks.
-
-Beyond that somewhat serious description, I find joy in creating and participating in projects spanning from fun to complex, with the aim of pushing the boundaries of what's possible. I have a passion for collaborating with others to achieve something great. You can see most of the frameworks/languages/tools I'm proficient in listed below in **Stats**, so feel free to reach out, and let's create amazing things together!
-
-<hr >
+*   **Lazyvim** - Text editor.
+*   **Zsh + Oh My Zsh** - Terminal (Hack [Nerd Font](https://www.nerdfonts.com/) as the font).
+*   **tmux** - Used for managing multiple terminals in one workspace.
+*   **Valgrind** - Memory debugger.
+*   **Ubuntu** - Linux distro.
+*   **Google Lighthouse** - Website optimization.
+*   **Todoist** - To-do app for saving information across my phone and computer.
+*   **Notion** - Used for storing information with depth.
+*   **QEMU + VMM** - Virtual Machine.
+*   **OBS + Sony Vegas** - Tools for video creation and editing.
+*   **Figma and Adobe Photoshop** - Design creation.
+*   **SnapNote** - Used for creating documentation in markdown and quickly saving information.
+*   **Google Calendar** - Time managment.
 
 <img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -34,22 +46,6 @@ Beyond that somewhat serious description, I find joy in creating and participati
 <img align="left" alt="postgresql" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <br />
 <br />
-
-### Workspace:
-
-*   **Lazyvim** - Text editor.
-*   **Zsh + Oh My Zsh** - Terminal (Hack [Nerd Font](https://www.nerdfonts.com/) as the font).
-*   **tmux** - Used for managing multiple terminals in one workspace.
-*   **Valgrind** - Memory debugger.
-*   **Ubuntu** - Linux distro.
-*   **Google Lighthouse** - Website optimization.
-*   **Todoist** - To-do app for saving information across my phone and computer.
-*   **Notion** - Used for storing information with depth.
-*   **QEMU + VMM** - Virtual Machine.
-*   **OBS + Sony Vegas** - Tools for video creation and editing.
-*   **Figma and Adobe Photoshop** - Design creation.
-*   **SnapNote** - Used for creating documentation in markdown and quickly saving information.
-*   **Google Calendar** - Time managment.
 
 ## Latest YouTube Videos
 
