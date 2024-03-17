@@ -1,4 +1,4 @@
-# FredTheMathematician (or just Fred)
+# Fred
 
 <p align="left">
   <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
