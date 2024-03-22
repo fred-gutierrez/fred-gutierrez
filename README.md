@@ -50,7 +50,12 @@ Beyond that somewhat serious description, I find joy in creating and participati
 ## Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Escape Tutorial Hell - A Simple Guide](https://ytcards.demolab.com/?id=nDbAHzyX5fI&title=Escape+Tutorial+Hell+-+A+Simple+Guide&lang=en&timestamp=1709398841&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=330 "Escape Tutorial Hell - A Simple Guide")](https://www.youtube.com/watch?v=nDbAHzyX5fI)
+[![Supabase - A Guide for Front-End Developers (With a Project example)](https://ytcards.demolab.com/?id=KPFn-CmcrLA&title=Supabase+-+A+Guide+for+Front-End+Developers+%28With+a+Project+example%29&lang=en&timestamp=1708732815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2517 "Supabase - A Guide for Front-End Developers (With a Project example)")](https://www.youtube.com/watch?v=KPFn-CmcrLA)
+[![Object Oriented Programming vs Functional Programming for 2024](https://ytcards.demolab.com/?id=rGjJyyj_HBk&title=Object+Oriented+Programming+vs+Functional+Programming+for+2024&lang=en&timestamp=1702839620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421 "Object Oriented Programming vs Functional Programming for 2024")](https://www.youtube.com/watch?v=rGjJyyj_HBk)
+[![Stop Using Apt and Snap, Use This Instead…](https://ytcards.demolab.com/?id=OFnGR5TdUQc&title=Stop+Using+Apt+and+Snap%2C+Use+This+Instead%E2%80%A6&lang=en&timestamp=1701979210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=435 "Stop Using Apt and Snap, Use This Instead…")](https://www.youtube.com/watch?v=OFnGR5TdUQc)
+[![Stop Relying on ChatGPT When Learning Software Development](https://ytcards.demolab.com/?id=jfFK-Zq03wo&title=Stop+Relying+on+ChatGPT+When+Learning+Software+Development&lang=en&timestamp=1700769630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=161 "Stop Relying on ChatGPT When Learning Software Development")](https://www.youtube.com/watch?v=jfFK-Zq03wo)
+[![5 Things to Know When Switching to Linux from Windows](https://ytcards.demolab.com/?id=TEBf6JlNRDI&title=5+Things+to+Know+When+Switching+to+Linux+from+Windows&lang=en&timestamp=1699907402&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=524 "5 Things to Know When Switching to Linux from Windows")](https://www.youtube.com/watch?v=TEBf6JlNRDI)
 <!-- END YOUTUBE-CARDS -->
 
 ## Stats
