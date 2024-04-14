@@ -22,7 +22,7 @@ Beyond that somewhat serious description, I find joy in creating and participati
 *   **Todoist** - To-do app for saving information across my phone and computer.
 *   **Notion** - Used for storing information with depth.
 *   **QEMU + VMM** - Virtual Machine.
-*   **OBS + Sony Vegas** - Tools for video creation and editing.
+*   **OBS + DaVinci Resolve** - Tools for video creation and editing.
 *   **Figma and Adobe Photoshop** - Design creation.
 *   **SnapNote** - Used for creating documentation in markdown and quickly saving information.
 *   **Google Calendar** - Time managment.
