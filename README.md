@@ -12,7 +12,7 @@ Beyond that somewhat serious description, I find joy in creating and participati
 </p>
 
 ### Workspace:
-
+ 
 *   **LazyVim** - Text editor.
 *   **Zsh + Oh My Zsh** - Terminal (Hack [Nerd Font](https://www.nerdfonts.com/) as the font).
 *   **tmux** - Used for managing multiple terminals in one workspace.
