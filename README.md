@@ -10,7 +10,7 @@ Beyond that somewhat serious description, I find joy in creating and participati
   <a href="https://twitter.com/fredlikesmath"><img alt="Static Badge" src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.youtube.com/@fredthemathematician"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-crimson?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
- 
+
 ### Workspace:
  
 *   **LazyVim** - Text editor.
