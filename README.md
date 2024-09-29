@@ -17,7 +17,7 @@ Beyond that somewhat serious description, I find joy in creating and participati
 *   **Zsh + Oh My Zsh** - Terminal (Hack [Nerd Font](https://www.nerdfonts.com/) as the font).
 *   **tmux** - Used for managing multiple terminals in one workspace.
 *   **Valgrind** - Memory debugger.
-*   **Ubuntu** - Linux distro.
+*   **Linux Mint** - Linux distro.
 *   **Google Lighthouse** - Website optimization.
 *   **Todoist** - To-do app for saving information across my phone and computer.
 *   **Notion** - Used for storing information with depth.
