@@ -47,7 +47,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 <!-- <br /> 
 <br /> -->
 
-## Latest YouTube Videos
+### Latest YouTube Videos:
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Why Rabbit R1 and most AI products will never succeed](https://ytcards.demolab.com/?id=ELURxXt7JEQ&title=Why+Rabbit+R1+and+most+AI+products+will+never+succeed&lang=en&timestamp=1717995608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=734 "Why Rabbit R1 and most AI products will never succeed")](https://www.youtube.com/watch?v=ELURxXt7JEQ)
@@ -58,7 +58,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 [![Object Oriented Programming vs Functional Programming for 2024](https://ytcards.demolab.com/?id=rGjJyyj_HBk&title=Object+Oriented+Programming+vs+Functional+Programming+for+2024&lang=en&timestamp=1702839620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421 "Object Oriented Programming vs Functional Programming for 2024")](https://www.youtube.com/watch?v=rGjJyyj_HBk)
 <!-- END YOUTUBE-CARDS -->
 
-## Stats
+### Stats:
  
 <!-- ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true) -->
 
