@@ -1,8 +1,8 @@
-# Fred
+# Hi there! I'm Fred
 
-As a Software Developer, I like to see myself as a problem-solver rather than merely someone familiar with frameworks and programming languages. Every day, I dedicate myself to the projects I undertake and the code I engage with, ensuring the best quality and attention to detail in my day-to-day tasks.
+I'm a software developer who loves solving problems and building cool things. It's not just about frameworks and languages for me – I focus on quality, performance, and maintainability in both code and processes.
 
-Beyond that somewhat serious description, I find joy in creating and participating in projects spanning from fun to complex, with the aim of pushing the boundaries of what's possible. I have a passion for collaborating with others to achieve something great. You can see most of the frameworks/languages/tools I'm proficient in listed below in **Stats**, so feel free to reach out, and let's create amazing things together!
+I enjoy taking on projects that range from fun to challenging, always aiming to push boundaries and learn something new. Collaboration is a big part of what I do, so if you're interested in teaming up, check out my **Stats** below to see what I mainly work with, and feel free to reach out!
  
 <p align="left">
   <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -26,7 +26,7 @@ Beyond that somewhat serious description, I find joy in creating and participati
 *   **Figma and Adobe Photoshop** - Design creation.
 *   **SnapNote** - Used for creating documentation in markdown and quickly saving information.
 *   **Google Calendar** - Time managment.
-
+<!--
 <img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -40,12 +40,12 @@ Beyond that somewhat serious description, I find joy in creating and participati
 <img align="left" alt="NodeJS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <!-- <img align="left" alt="Bootstrap" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> -->
 <!-- <img align="left" alt="Tailwind" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> -->
-<img align="left" alt="Linux" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Vim" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<!-- <img align="left" alt="Linux" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<!-- <img align="left" alt="Vim" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <!-- <img align="left" alt="Ubuntu" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />  -->
-<img align="left" alt="postgresql" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<br />
-<br />
+<!-- <img align="left" alt="postgresql" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> -->
+<!-- <br /> 
+<br /> -->
 
 ## Latest YouTube Videos
 
