@@ -3,7 +3,7 @@
 I'm a software developer who loves solving problems and building cool things. It's not just about frameworks and languages for me – I focus on quality, performance, and maintainability in both code and processes.
 
 I enjoy taking on projects that range from fun to challenging, always aiming to push boundaries and learn something new. Collaboration is a big part of what I do, so if you're interested in teaming up, check out my **Stats** below to see what I mainly work with, and feel free to reach out!
- 
+
 <p align="left">
   <a href="https://discord.com/users/fredgutierrez"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/freddavidsolisgutierrez/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
