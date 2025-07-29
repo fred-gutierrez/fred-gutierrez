@@ -13,10 +13,9 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 
 ### Workspace:
  
-*   **LazyVim** - Text editor.
+*   **LazyVim** and **Cursor** - Text editors.
 *   **Zsh + Oh My Zsh** - Terminal (Hack [Nerd Font](https://www.nerdfonts.com/) as the font).
 *   **tmux** - Used for managing multiple terminals in one workspace.
-*   **Valgrind** - Memory debugger.
 *   **Linux Mint** - Linux distro.
 *   **Google Lighthouse** - Website optimization.
 *   **Todoist** - To-do app for saving information across my phone and computer.
